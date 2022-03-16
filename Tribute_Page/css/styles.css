@@ -1,0 +1,56 @@
+body {
+  background-color: #A3DDCB;
+
+}
+#main {
+  margin: 0 10%;
+
+}
+/* navbar */
+
+/* Image CSS */
+.Bob {
+  width: 50%;
+  height: auto;
+}
+
+/* Title Section */
+#title {
+  text-align: center;
+padding: 5%;
+}
+
+/* Highlights Section */
+#highlights {
+  text-align: center;
+  background-color: #E8E9A1;
+}
+
+.row-highlights {
+  line-height: 2;
+}
+
+.list-items {
+  text-align: left;
+}
+
+/* Summary Section  */
+#summary {
+  background-color: #E6B566;
+  text-align: center;
+  padding: 1%;
+  line-height: 2;
+}
+.section-title {
+  margin: 1% 0;
+}
+
+/* Famous Shows Section */
+#famous_shows {
+  text-align: center;
+  padding: 1%;
+  background-color: #E5707E;
+}
+.show-p {
+  text-align: left;
+}
